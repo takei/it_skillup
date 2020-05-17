@@ -5,7 +5,7 @@
 - [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
     - 高機能エディタ
 - [Git](https://git-scm.com/download/win)
-    - バージョン管理システム 
+    - バージョン管理システム
 - [GitHub](https://github.com/)
     - ソフトウェア開発プラットフォーム
 
