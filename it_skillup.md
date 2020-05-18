@@ -27,23 +27,25 @@
 |サービス名|特徴|SQL講座|月額費用|備考|
 |-|-|-|-|-|
 |[Python公式ドキュメント](https://docs.python.org/ja/3/)|言語についての説明だけでなく、チュートリアルも充実している。必要に応じて言語リファレンスを確認するのにも利用。|-|無料||
-|[paiza](https://paiza.jp/works)|全てのレッスンが３分以内の動画となっており、すきま時間を利用して学習できる。エンジニアに質問可能。|有|1,488円|DB:MySQL。機械学習の入門講座あり。Webアプリケーション開発講座あり(Django, Flask)。|
-|[ドットインストール](https://dotinstall.com/)|paizaと同じく、すきま時間を利用して学習できる。R言語のレッスンもあり。|有|2,680円|DB:MySQL, SQLite, PostgreSQL|
-|[PyQ](https://pyq.jp/)|Python特化。|-|11,000円||
-|[Progate](https://prog-8.com/)|プログラミング入門者向け。|有|1,480円|DB講座は無し。|
-|[Coursera](https://ja.coursera.org/)||-|49.00USD|教材は英語。1講座の時間は長め。|
-|[Python - izm](https://www.python-izm.com/)||-|無料||
+|[Coursera](https://ja.coursera.org/)|教材は英語だが、海外のレベルの高い講座を受けられる。1講座の時間は長め。|-|49.00USD||
+|[PyQ](https://pyq.jp/)|Python特化。入門レベルから実践レベルまで学習可能。機械学習に関する講座もあり。|-|11,000円||
+|[Python - izm](https://www.python-izm.com/)|無料で利用可能。環境構築方法についても説明あり。機械学習関連はNumpy程度。|-|無料||
+|[paiza](https://paiza.jp/works)|全てのレッスンが３分以内の動画となっており、すきま時間を利用して学習できる。エンジニアに質問可能。機械学習は入門程度|有|1,488円|Python講座のみであれば、無料で受講可能。 </br> DB講座:MySQL|
+|[AI Academy](https://aiacademy.jp/)|AI分野の講座が充実。無料で受けられる講座も多い。|-|980円|講座内容ページが表示されず。|
+|[Aidemy](https://aidemy.net/)|プラグラミングの内容は軽め。AI分野の講座が充実。|-|5,000円||
 |[N予備校](https://www.nnn.ed.nico/pages/programming/)|Pythonの基礎から機械学習について学べる。|-|1,000円||
-|[Aidemiy](https://aidemy.net/)|プラグラミングの内容は軽め。AI分野のコースが充実。|-|5,000円||
+|[Progate](https://prog-8.com/)|プログラミング入門者向け。機械学習に関する講座はない。|有|1,480円||
+|[ドットインストール](https://dotinstall.com/)|paizaと同じく、すきま時間を利用して学習できる。機械学習に関する講座はない。DBの講座が充実。|有|2,680円|DB講座:MySQL, SQLite, PostgreSQL </br> R言語の講座もあり。|
 
 <!---
-memo:はてなブックマーク数
+[参考]はてなブックマーク数
 paiza:175
 ドットインストール:4388
 Progate:1169
 Coursera:29
 PyQ:306
 Python - izm :775
+AI Academy:72
 --->
 
 ### その他リンク
